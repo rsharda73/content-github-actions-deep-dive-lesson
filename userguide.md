@@ -2,7 +2,7 @@
 
 __New feature alert!__
 
-New feature released as on 04/18/2022
+New feature released as on 04/19/2022
 
 ## Install
 
